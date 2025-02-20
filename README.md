@@ -11,8 +11,8 @@
 
 ### 🚀 My Projects:
 🔹 [Sentiment Analysis Using Machine Learning](https://github.com/Ritik463/sentiment-analysis)  
-🔹 [Another Project Here](https://github.com/Ritik463/example-project)  
-
+🔹 [Health-Hub-Connect](https://github.com/Ritik463/Health-Hub-Connect)  
+🔹  [Semester](https://github.com/Ritik463/Semester)                           
 ### 📊 GitHub Stats:
 ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritik463&show_icons=true&theme=radical)
 
@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritik463&color=blue)
 
 ### 💌 Connect With Me:
-- 🛠 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ritik0001/)
-- 🐥 **Twitter:** [@your_twitter](https://twitter.com/)
+- 🛠 **LinkedIn:** [ LinkedIn](https://www.linkedin.com/in/ritik0001/)
+- 🐥 **Twitter:** [_twitter](https://twitter.com/)
 - 📩 **Email:** ritisingh463@gmail.com
 
