@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritik463&color=blue)
 
 ### 💌 Connect With Me:
-- 🛠 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🐥 **Twitter:** [@your_twitter](https://twitter.com/your_twitter)
-- 📩 **Email:** your.email@example.com
+- 🛠 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ritik0001/)
+- 🐥 **Twitter:** [@your_twitter](https://twitter.com/)
+- 📩 **Email:** ritisingh463@gmail.com
 
